@@ -1,0 +1,124 @@
+{
+  "menu_principal": [
+    {
+      "title": "Introduction",
+      "pageId": "page0"
+    },
+    {
+      "title": "Paramètres en pratique",
+      "pageId": "page1"
+    }
+  ],
+  "pages": [
+    {
+      "id": "page0",
+      "title": "Introduction",
+      "parts": [
+        {
+          "title": "Contexte technologique",
+          "references": [
+            {
+              "valeur": "PETTORIA, Liljana Valentina, CHABERT, Ghislaine. 2019, *Repenser le smartphone.* [Voir plus](http://exemple.com)."
+            },
+            {
+              "valeur": "NOVA, Nicolas. 2012, *Curious Rituals.*"
+            },
+            {
+              "valeur": "SERRE, Nicolas. 1959, *Retour au Contexte naturel.* Édition François Bourin."
+            }
+          ],
+          "contenu": [
+            {
+              "type": "texte",
+              "valeur": "Pendant un repas entre amis, le smartphone se fait souvent remarquer et attire l'attention de tous. Ce phénomène se retrouve dans de nombreux contextes, notamment lors des dîners ou dans les transports."
+            },
+            {
+              "type": "image",
+              "valeur": "images/smartphone1.jpg",
+              "alt": "Un smartphone posé sur une table",
+              "legende": "Illustration : smartphone au quotidien."
+            },
+            {
+              "type": "texte",
+              "valeur": "Le smartphone s'impose désormais comme un objet indispensable. Sa présence dans notre quotidien influence nos comportements et nos interactions sociales."
+            },
+            {
+              "type": "texte",
+              "valeur": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ligula a leo maximus lacinia. Sed tincidunt, massa in facilisis dictum, est lorem tincidunt orci, et luctus nisi sapien ac justo. Proin id dui non elit gravida posuere."
+            }
+          ]
+        },
+        {
+          "title": "Impact mondial",
+          "references": [
+            {
+              "valeur": "DONATI, Laura. 2020, *Global smartphone usage*."
+            },
+            {
+              "valeur": "GREEN, Andrew. 2018, *Environmental aspects of smartphone manufacturing.*"
+            },
+            {
+              "valeur": "CAPRA, Fabrizio. 2017, *Usage Stats & Mobile Trends.*"
+            },
+            {
+              "valeur": "Article complet : [Statistiques détaillées](http://exemple.org/stats)."
+            }
+          ],
+          "contenu": [
+            {
+              "type": "texte",
+              "valeur": "Devenu un objet planétaire, le smartphone impacte le monde entier et influence nos modes de vie. Ses usages variés génèrent des données qui permettent d'observer des tendances à l'échelle mondiale."
+            },
+            {
+              "type": "image",
+              "valeur": "images/smartphone2.jpg",
+              "alt": "Utilisateur dans le métro",
+              "legende": "Un utilisateur consultant son smartphone dans le métro."
+            },
+            {
+              "type": "texte",
+              "valeur": "En 2019, on comptait plus de 5 milliards d’appareils en circulation, illustrant l'ampleur de leur diffusion et leur rôle essentiel dans la société moderne."
+            },
+            {
+              "type": "texte",
+              "valeur": "Suspendisse potenti. Donec vitae risus non nisl finibus molestie. Morbi ac interdum justo. Vivamus lacinia, libero a scelerisque ultricies, erat sapien dictum erat, vitae blandit elit tellus nec nulla."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "page1",
+      "title": "Paramètres en pratique",
+      "parts": [
+        {
+          "title": "Réglages et écologie",
+          "references": [
+            {
+              "valeur": "Observations sur 10 utilisateurs, *Limites Numériques*, 2022."
+            },
+            {
+              "valeur": "FOURNIER, Marc. 2021, *Réduire la consommation énergétique du smartphone.*"
+            }
+          ],
+          "contenu": [
+            {
+              "type": "texte",
+              "valeur": "Dans une perspective d’usage plus écologique, certains paramètres du smartphone peuvent être ajustés afin de réduire sa consommation d'énergie et son impact environnemental."
+            },
+            {
+              "type": "image",
+              "valeur": "images/settings.jpg",
+              "alt": "Paramètres de smartphone",
+              "legende": "Écran de réglages sous Android."
+            },
+            {
+              "type": "texte",
+              "valeur": "Phasellus at nunc et libero pretium pretium. Aenean tincidunt, ipsum non dignissim consequat, leo metus ullamcorper sapien, non sollicitudin sapien massa ac est."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
